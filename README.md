@@ -1,4 +1,5 @@
-💳 Banking System Data Management & Analysis 🏦
+# 💳 Banking System Data Management & Analysis 🏦
+
 🚀 Transforming raw banking data into actionable insights with SQL & advanced analytics!
 
 📌 Project Overview
